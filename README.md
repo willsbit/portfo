@@ -1,3 +1,3 @@
-Portifólio da Chamma Consultoria. 
+Portfólio da Chamma Consultoria. 
 
 https://willdsc.pythonanywhere.com/
